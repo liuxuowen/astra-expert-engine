@@ -496,6 +496,64 @@ AFR 这类榜单和 QS 看的不是同一件事。QS 更偏全球声誉、国际
 - 选校时可结合综合排名与学科排名一起看，但不应单一依赖某一排名做决策
 - 同一院校在不同学科的排名差异可能很大，应针对具体专业进行查询
 
+## 十六、美国理海大学（Lehigh University）硕士项目合作信息
+
+### 1. 学校概况
+- 位置：美国宾夕法尼亚州伯利恒市
+- 类型：私立研究型大学
+- 学生规模：本科及五大研究生院硕博学生总人数约7900人（其中硕博学生约1900人）
+- 成立：1865年
+- 昵称："隐藏的常春藤"
+
+### 2. 排名与声誉
+- US News全美综合排名：#46
+- LinkedIn全美顶尖大学排名：#17
+- Wall Street Journal/College Pulse全美大学排名：#29
+- 地理位置：距离费城1小时、纽约市中心1.5小时、华盛顿特区3小时
+
+### 3. 五大院系
+- 工程与应用科学学院（P.C. Rossin College of Engineering & Applied Science）
+- 商学院（College of Business）
+- 人文科学学院（College of Arts and Sciences）
+- 教育学院（College of Education）
+- 健康学院（College of Health）
+
+### 4. 可合作硕士项目
+
+| 项目 | 学位 | 重点方向 |
+|-----|------|---------|
+| Electrical Engineering | M.S., M.Eng. | Bioelectronics, AI/ML, Computer Engineering, Semiconductors, Photonics |
+| Mechanical Engineering | M.S. | Mechanical Systems, Solid Mechanics, Thermo Fluids |
+| Physics | M.S. | Condensed Matter, Quantum Science, Biophysics, Astrophysics |
+| ISE (Industrial and Systems Engineering) | M.S. | Optimization, Data Science, Operations Research, Quantum Computing |
+| Bioengineering | M.S. | Biocomputations, Diagnostics, Materials and Therapies |
+| Chemical Engineering | M.S., M.Eng. | Energy & Environment, Polymer Science, Nanotechnology |
+| Applied Economics | M.S. | Academic路径 / Industry & Policy路径 |
+
+### 5. 特色项目
+
+**联合国合作：**
+- 全球第6所获联合国NGO认可大学
+- 学生参与方式：LU/UN Partnership实习、Greening the Blue、UNA-Lehigh Student Club、SDG展示汇报
+
+**艾柯卡全球领导力研究所（Lee Iacocca Institute）：**
+- Iacocca International Internship Program（国际实习机会与资助）
+- Iacocca Global Entrepreneurship Intensive（高中生沉浸式项目）
+- Iacocca Global Future Leaders Lab: Silicon Valley（高中生密集项目）
+
+**贝克创新与创业学院（Baker Institute）：**
+- 创业大赛、导师指导、孵化器支持
+- 协助师生将科研成果转化为可推动经济和社会发展的项目
+
+**ICAPE（学术和专业英语国际中心）：**
+- 提供非学分与学分课程、工作坊、辅导及测评服务
+
+### 6. 咨询提示
+- 理海大学工程类专业实力突出，适合有工程、数据、AI方向申请需求的学生
+- 学校规模较小（约7900人），师生比1:10，校友联系紧密
+- UN NGO身份为有意参与国际组织实践的学生提供独特机会
+- Iacocca Institute的国际实习和创业项目对本科和硕士学生均开放
+
 ## 十七、知识库使用原则
 - 本文件优先沉淀"规则、门槛、趋势、政策"类知识点
 - 后续类似新增内容应尽量并入现有章节
