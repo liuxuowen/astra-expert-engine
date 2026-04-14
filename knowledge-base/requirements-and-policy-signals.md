@@ -578,3 +578,250 @@ AFR 这类榜单和 QS 看的不是同一件事。QS 更偏全球声誉、国际
 - 非STEM专业PSW缩短至18个月，但对2026年12月31日前毕业的学生有过渡期保护（仍可享受2年）
 - 博士毕业生无论专业，PSW均维持3年不变
 - 具体政策细节应以英国移民局官方最新公告为准
+
+## 十九、新加坡国立大学（NUS）2026/2027 本科招生与奖助学金口径
+
+### 1. 学校整体认知
+#### 可直接复用的基础信息
+- NUS 2026 QS 世界大学排名全球第 8、亚洲第 1
+- Global Employability University Ranking and Survey 2026 中，就业力全球第 8
+- 本科阶段提供 60+ bachelor’s degrees，130+ double / concurrent / joint degrees
+- 本科生规模约 30,000+，教师约 2,700 人
+- 校园内有 200+ student organisations
+- 国际化程度高，校园覆盖 120+ 国籍学生
+- 约 1/2 学生拥有海外学习或全球项目经历
+
+#### 咨询中的可复用表达
+- NUS 可以作为亚洲顶尖、全球认可度高、就业导向明确的新加坡本科代表院校
+- 对重视学校品牌、亚洲区位、安全性、英文授课和毕业后区域就业连接的家庭，NUS 是高频核心选项
+- 在家长沟通中，NUS 不应只被理解为“新加坡本地强校”，而应被定位为“亚洲头部、全球前十梯队的综合研究型大学”
+
+### 2. 学术结构与本科培养特点
+#### 本科培养的核心特征
+- 采用模块制（Modular System），学生可在课程范围内灵活选课
+- Academic Year 一般从 8 月开始，到次年 7 月结束；通常包含两个 semester
+- 工作量以 units 计算，1 unit 约等于每周 2.5 小时学习投入
+- 学生一般每学期修读 20 units，约等于每周 50 小时学习强度
+- GPA 采用 5 分制
+- 多数四年制荣誉学位的划分为：
+  - Honours (Highest Distinction): 4.50+
+  - Honours (Distinction): 4.00–4.49
+  - Honours (Merit): 3.50–3.99
+  - Honours: 3.00–3.49
+  - Pass: 2.00–2.99
+
+#### 培养机制上的亮点
+- 允许 second major、minor、specialisation、double degree、concurrent degree、joint degree 等多种组合
+- 设有 Grade-free Scheme：前两年可使用 S/U 机制减轻试错压力
+- General Education 强调 Data Literacy、Digital Literacy、Cultures and Connections、Singapore Studies、Communities and Engagement 等通识能力
+- 有 Design-Your-Own-Course、UROP、UREx、iDP、NOC 等项目，强调跨学科、研究和创新创业训练
+
+#### 咨询口径
+- NUS 本科并非单纯“按专业固定培养”，而是兼具强专业深度与跨学科组合弹性
+- 对学术能力强、愿意主动规划课程路径的学生，NUS 的制度设计有较高发挥空间
+- 不能只把 NUS 理解为“考试型亚洲大学”，其课程体系实际兼顾探索性、研究导向和全球流动性
+
+### 3. 学院与专业分布认知
+#### 高关注学院/方向
+- NUS Business School：Accountancy、Finance、Marketing、Business Economics、Applied Business Analytics 等
+- School of Computing：Artificial Intelligence、Computer Science、Business Analytics、Information Security、Business Artificial Intelligence Systems 等
+- College of Design and Engineering：Biomedical Engineering、Chemical Engineering、Civil Engineering、Electrical Engineering、Mechanical Engineering、Robotics and Machine Intelligence、Architecture、Industrial Design 等
+- College of Humanities and Sciences：涵盖人文社科与理学，支持更高的交叉组合空间
+- Faculty of Law、Yong Loo Lin School of Medicine、Faculty of Dentistry、Nursing、Pharmacy 也都是高竞争方向
+
+#### 新增或值得关注项目
+- Geospatial Intelligence（跨学科新专业）
+- Nursing + Biomedical Informatics 并读项目
+- Acacia College（住宿学院，聚焦 AI）
+
+#### 咨询口径
+- NUS 的强势方向不止商科和计算机，工程、数据、法律、医学、药学、人文社科与交叉学科同样具备很强竞争力
+- 对目标明确的学生，应尽早确认目标专业是否有先修课、额外面试/测试、英语要求或独立申请流程
+
+### 4. 国际学生申请认知与校园适应信息
+#### 国际学生环境与支持
+- 国际生可参与 Pre-Arrival Connection Programme (PACP)
+- 设有 Singapore Touchdown Cultural Intelligence (CQ) Workshop，帮助国际学生做文化适应
+- 英语是 NUS 的教学语言，也是校园学习与日常沟通的核心语言
+- 首年国际学生如在截止前申请宿舍，享有住宿优先考虑
+- 校内住宿主要分为 4 类：Halls of Residence、Houses、Residential Colleges、Student Residences（后者多为高年级）
+
+#### 新加坡环境认知
+- 新加坡整体安全性高，公共交通便捷
+- 校园及周边生活便利，适合作为国际学生初次海外本科目的地之一
+
+#### 咨询口径
+- 对首次出国、希望英文环境但又担心适应成本过高的家庭，新加坡/NUS 是接受度较高的路径
+- NUS 的国际学生支持重点在“顺利落地与持续适应”，适合强调安全、秩序、便利性和亚洲文化相对接近的家庭
+
+### 5. 重点专业先修要求（国际申请场景）
+#### 需要重点关注的基础门槛
+- Business Administration / Business Analytics / Business Artificial Intelligence Systems / Computer Science / Artificial Intelligence / Information Security：通常要求 Year 12 或同等层级的 Mathematics
+- Computer Engineering：通常要求 Mathematics + Physics 或 Chemistry
+- Engineering 大类：通常要求 Mathematics；不同专业可能另有补充要求
+- Dentistry：通常要求 Chemistry + Biology 或 Physics
+- Medicine：通常要求 Chemistry + Biology 或 Physics；部分资格还可能要求 BMAT / UCAT
+- Nursing：通常要求在 Biology、Chemistry、Computing、Physics、Physical Science、Mathematics / Further Mathematics 中满足任意两门
+- Law：通常要求较高英语能力，如 IELTS 7.0、TOEFL iBT 100、SAT EBRW 700、AP English Language 4 分等
+- Pharmacy / Pharmaceutical Science：通常要求较强的 Chemistry，另配 Biology / Mathematics / Physics 中之一
+- Architecture / Landscape Architecture：通常要求 Chemistry / Mathematics / Physics / Physical Science 之一
+- Industrial Design：通常要求 Arts / Economics / Mathematics / Physics 之一
+
+#### 须参加额外测试/面试的高关注专业
+- Architecture
+- Dentistry
+- Industrial Design
+- Landscape Architecture
+- Law
+- Medicine
+- Nursing
+- Philosophy, Politics, and Economics（在主招生简章中列出）
+- Music 需走独立申请与 audition 流程
+
+#### 咨询使用边界
+- 以上属于 2026/2027 学年的官方口径，适合做方向性预审与前期筛选
+- 真正递交前，仍需逐一核查学生所属课程体系（A-Level、IB、各国高中文凭等）对应要求
+- 不能把 Year 12 先修要求简单等同于“只看是否学过”，实际还会结合成绩强度与整体竞争情况综合判断
+
+### 6. 国际学生资格与标化认知
+#### 可复用基础判断
+- 国际申请者通常需完成或即将完成所在国家高中阶段课程
+- 不同国家课程体系（如 IB、加拿大高中文凭、印尼高中体系、意大利高中体系等）有各自适配要求
+- 对于未提交 actual results 的申请者，部分情况下需要补充标准化考试成绩
+- AP、ACT 等标准化考试可在部分体系中作为补充或必要材料
+
+#### 典型标化要求（官方材料口径）
+- AP：除 Law 外，多数项目要求 AP Calculus BC；Law 可接受更宽的 AP 组合
+- ACT with Writing：最低 composite 29，writing 8
+- 不同专业仍需同时满足其 prerequisite
+
+#### 咨询口径
+- NUS 国际申请不是“统一一套全球门槛”，而是按课程体系分别审理
+- 顾问在前期判断时，应先确认学生课程体系，再确认是否需额外提交 AP / ACT / 英语成绩，而不是直接套用单一录取标准
+
+### 7. 招生流程与申请时间口径
+#### 普通本科主申请流程（根据 2026/2027 官方材料）
+- 先确认自身 qualification 对应的申请时间窗
+- 在线提交申请，并上传支持材料
+- 按要求支付申请费（国际学生 prospectus 中写明申请费为 S$20）
+- 若被 shortlisted，参加 interview / test / audition
+- 通过 Applicant Portal 跟踪结果、接受 offer 或发起 appeal（如适用）
+
+#### 咨询口径
+- NUS 本科申请流程相对规范、时间节点清晰，适合做“标准化推进”
+- 但热门专业存在 interview / test / actual results 提交等额外节点，不能只盯住统一网申截止日
+- 对国际学生尤其要提醒：专业要求、课程体系要求、补件和面试通知，必须通过 Applicant Portal 持续跟踪
+
+### 8. 学费、生活费与服务义务（MOE Tuition Grant）
+#### 官方可复用认知
+- NUS 学费通常建立在新加坡教育部 MOE Tuition Grant 补贴体系上
+- 对国际学生而言，获得 MOE Tuition Grant 后，学费会明显低于 full fee rate
+- 根据 Scholarship & Financial Aid 2026/2027 官方文件，不同国籍与专业在 MOE Tuition Grant 后的学费，大致范围约为 S$8,250 至 S$83,950 / 年
+- 全日制本科生生活费保守估算约 S$6,000 / 年
+- 住宿费保守估算约 S$5,750 / 年（官方材料按约 35 周估算）
+
+#### 服务义务（Service Obligation）
+- Singapore Citizens 的 MOE Tuition Grant 无服务义务
+- 非新加坡公民通常需在本科毕业后完成 3 年服务义务（与新加坡实体雇主）
+- Medicine 和 Dentistry 学生无论国籍，都需履行更长的 4–6 年相关服务义务 / bond
+
+#### 咨询口径
+- NUS 的“性价比”不能只看表面学费，要同时判断学生是否拿到 MOE Tuition Grant，以及是否接受毕业后服务义务
+- 对国际家庭，必须提前讲清：补贴学费通常伴随 3 年服务义务，这不是可忽略的小条款
+- 医学、牙医等项目的 bond 更长，路径决策要更谨慎
+
+### 9. 奖学金体系（2026/2027）
+#### 六类 NUS 本校 Freshmen Scholarships
+- NUS Global Merit Scholarship
+- NUS Merit Scholarship
+- NUS Undergraduate Scholarship
+- NUS AI Talent Scholarship
+- NUS Performing & Visual Arts Scholarship
+- NUS Sports Scholarship
+
+#### 常见覆盖内容（以官方奖学金文件为准）
+- 补贴后学费全额覆盖
+- S$6,000 / 年生活补助
+- S$2,000 一次性电脑补助
+- 校内住宿优先 / 住宿补贴
+- 1 学期 SEP 保证名额
+- 部分奖学金提供 NOC / SEP 经费支持
+- AI Talent Scholarship 额外强调 AI 导师、AI 研究与行业暴露
+
+#### 关键申请要求
+- 六类本校 freshmen scholarships 主要面向 Singapore Citizens
+- 常见要求包括：学术成绩突出、领导力、较好的课外活动记录
+- 申请时间通常为 2 月 1 日至 3 月 19 日
+- 申请路径为：先提交入学申请，再提交奖学金申请与材料
+- 3–5 月可能安排面试，结果通常在 5 月底前公布
+
+#### 国际学生相关奖学金
+以下奖学金与国际学生关系更密切：
+- ASEAN Undergraduate Scholarship
+- Science & Technology Undergraduate Scholarship
+- NUS International Undergraduate Scholarship
+- NUS College International Scholarship
+- The Association of Banks in Singapore – Goh Keng Swee Scholarship
+
+#### 咨询口径
+- 顾问不能把 NUS 六类本校奖学金默认理解为国际生普遍可申；其中核心 freshmen scholarships 主要是新加坡公民向
+- 国际生更应重点关注 ASEAN Scholarship、S&T Scholarship、NUS International Undergraduate Scholarship、NUS College International Scholarship 等自动纳入评估或单独适配的奖项
+- 奖学金申请应被视为“和本科申请同步推进”的独立工作流，不能等录取后再补想
+
+### 10. 财务资助与国际生可用性判断
+#### 基本原则
+- NUS 财务资助分为奖学金（merit-based）与 financial aid（need-based）两套逻辑
+- financial aid 包括 loan、bursary、grant、work-study 等
+- 不同 residency（SC / SPR / IS）对应的可申请项目不同
+
+#### 对国际学生的重点提醒
+- 国际生并非完全没有 financial aid，但可用项目和收入门槛与新加坡公民/PR 不同
+- MOE Study Loan 对国际生可适用，但通常要求 PCI up to S$1,200
+- MOE Tuition Fee Loan 对国际生可申请，但覆盖额度按 Singapore Citizen 对应学费标准计算，而不是按国际生实际全额学费计算
+- 一些 bursary / grant 主要偏向 Singapore Citizens
+
+#### 咨询口径
+- 国际家庭在看 NUS 时，不能简单理解为“只要录取就有足够助学金”
+- 需要分清：
+  1. 是否拿到 Tuition Grant
+  2. 是否拿到 merit scholarship
+  3. 是否满足 need-based aid 条件
+- 在预算沟通中，NUS 可被视为“有机会比英美显著便宜”，但前提是补贴、奖学金与家庭支付能力结构要算清楚
+
+### 11. 住宿与校园生活认知
+#### 校内住宿类型
+- Student Residences
+- Halls of Residence
+- Houses
+- Residential Colleges
+
+#### 咨询可复用重点
+- 国际新生可优先申请住宿，这一点对首年落地适应非常关键
+- Halls / Houses / Residential Colleges 在生活氛围、活动密度、学术要求上差异明显
+- 对希望更强社区感和英语沉浸的学生，住宿选择本身就是培养体验的一部分
+
+### 12. 全球项目与职业发展认知
+#### 全球流动与创业项目
+- Student Exchange Programme (SEP)
+- NUS Overseas Colleges (NOC)
+- Summer / Winter Programmes
+- Research Attachments
+- STEER
+
+#### 职业发展支持
+- NUS Centre for Future-ready Graduates (CFG) 提供 career advisory、internship support、recruitment events 等
+- 官方材料显示每年可连接 10,000+ internships、800+ career events、7,000+ advisory sessions
+
+#### 咨询口径
+- NUS 的价值不只是“在新加坡读书”，而是其本身带有较强国际流动和就业连接能力
+- 对重视毕业后求职与区域发展机会的家庭，可以把 CFG、SEP、NOC 作为 NUS 路径的重要卖点
+
+### 13. 顾问使用边界与风险提示
+- NUS 的官方信息更新频繁，实际申请时应以当季官网与 Applicant Portal 为准
+- 不同课程体系、不同专业、不同 residency 身份适用规则差异大，不能套用单一门槛
+- 补贴学费、奖学金和 financial aid 是三套不同机制，咨询时必须拆开讲
+- “国际生可申请”不等于“国际生高概率拿到”
+- Medicine / Dentistry / Law / Music / Architecture 等方向需特别关注附加审核、面试、作品集、考试或 bond 要求
+
+### 14. 可直接复用的总结表达
+新加坡国立大学（NUS）是亚洲顶尖、全球高认可度的综合研究型大学，本科申请既重视学术基础，也强调专业匹配与课程体系适配。对国际学生而言，NUS 的核心吸引力在于：全球前列的学校品牌、英语授课、亚洲区位优势、较高安全性、较强就业连接，以及在获得补贴后相对可控的整体成本。但在具体咨询中，必须同步讲清专业先修要求、课程体系差异、MOE Tuition Grant 及其服务义务、国际生奖学金可得性和不同项目的附加审核要求，避免把“高性价比”误讲成“低门槛”或“低成本无条件可得”。
