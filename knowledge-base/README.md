@@ -31,7 +31,11 @@
 
 4. `knowledge-base/undergraduate/`
    - 本科方向院校速查与顾问话术沉淀
-   - 当前已新增：`nus-undergraduate-2026-2027.md`
+   - 按国家/地区（usa/uk/sg/hk/au/ca/eu/other）子目录分类
+
+5. `knowledge-base/graduate/`
+   - 研究生方向院校速查与顾问话术沉淀
+   - 按国家/地区（usa/uk/sg/hk/au/ca/eu/other）子目录分类
 
 适用范围：
 - 以美本咨询为核心
