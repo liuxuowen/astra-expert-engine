@@ -111,6 +111,49 @@ NUS 奖学金体系不算简单，顾问最容易讲错的点是：
 
 ---
 
+### C. NUS 本科申请操作细节补充（来自官方申请指南）
+
+#### 1. 申请费与支付方式
+- 申请费：SGD 10（不可退还）
+- 支付方式：Visa / Mastercard / Amex / Alipay / PayNow
+- 通过 Applicant Portal 的 ‘Pay Application Fee’ 缴纳
+- 付款后 1 个工作日更新状态；若申请截止日当天付款，处理时间仍适用
+- 重复或多次付款不退还，申请人须在重付前确认支付状态
+
+#### 2. 志愿机制（SDP + DDP）
+- Single Degree Programme（SDP）：最多申请 8 个志愿
+- 共同录取项目（如 Business Administration、Common CS、Engineering、Humanities & Sciences）需同时填写 preferred major
+- 同一共同录取项目和对应 preferred major 只能选一次
+- DDP / CDP / 双学位 / 副修 / 专业方向：额外最多 8 个志愿（基于 SDP 选择的关联显示）
+- 任何 SDP 志愿变更后，必须重新选择关联的 DDP/CDP/双学位/副修
+
+#### 3. Special Programmes（Engineering / Design 方向专属）
+- 若在 SDP 中选择了 Engineering 和/或 Computer Engineering：
+  - 可同时申报 Engineering Scholars Programme
+  - 可同时申报 Engineering and Medicine（DUKE-NUS）（仅 IB / NUSHS / GCE A-Level 可申）
+- 若在 SDP 中选择了 Architecture、Industrial Design 和/或 Landscape Architecture：
+  - 可同时申报 Design Scholars Programme
+
+#### 4. NUS College 选拔
+- 申请时可选填 NUS College 入学意愿
+- 需额外回答 holistic assessment 附加问题
+- 由 NUS College 独立评审
+
+#### 5. Aptitude-Based Admissions（ABA）报名细节
+- 对相关项目有强烈兴趣或特长的申请人可尝试 ABA 通道
+- 需回答 5 道短答题目
+- 最多列出 4 项成就
+
+#### 6. 健康与背景申报（不可忽略）
+- 需申报内容：过往或当前健康状况、身心障碍、药物或食物过敏，并上传相关证明
+- 另需明确申报是否有：被逮捕/起诉/缓刑记录、被学校停学或开除记录、被雇主解雇记录、涉及任何司法或纪律程序
+- 以上信息绝对保密，仅用于入学后提供必要支持
+
+#### 7. 申请完成三要素
+收到 “Acknowledgement of Application” 邮件 + 提交全部材料 + 缴纳申请费，三项齐全才算完成申请。
+
+---
+
 ### B. 奖学金速查版
 #### 1. 六类本校 freshmen scholarships
 - NUS Global Merit Scholarship
