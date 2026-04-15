@@ -219,6 +219,39 @@
 
 ---
 
+### Singapore-Cambridge GCE 'A' Level 路径
+
+**核心入学要求**：
+- 同一考试批次中取得至少 **两个 H2 级别科目及格**，并参加 **GP（General Paper）或 KI（Knowledge & Inquiry）**
+- 满足以下 **MTL 要求之一**：
+  - H1 MTL / General Studies in Chinese / H2 MTLL 达到 S 级
+  - MTL B 在 A-Level 达到 Pass
+  - O-Level Higher MTL 达到 D7 以上
+  - MOE 批准的 MTL-in-lieu 或 MTL-exemption（若已离开新加坡学校体系多年，大学将代为申请）
+
+**申请窗口**：2026年2月27日 – 2026年3月19日
+
+新加坡 GCE 'A' Level 各学院/专业最低科目要求：
+
+| 学院 | 专业 | A-Level 科目要求 |
+|------|------|-----------------|
+| REP | Renaissance Engineering Programme | H2 数学 + H2 物理/化学/生物/计算之一 |
+| Engineering | 所有工程专业 | H2 数学 + H2 物理/化学/生物/计算之一 |
+| Computing | AI and Society | H2 数学或 H2 物理/计算 |
+| Computing | Computer Science | H2 数学或 H2 物理/计算 |
+| Computing | Data Science and AI | H2 数学 |
+| Computing | Business and Computer Engineering | H2 数学 + H2 物理/化学/生物/计算之一 + GP/KI 良好 |
+| Computing | Business and Computing | H2 数学或 H2 物理/计算 + GP/KI 良好 |
+| Computing | Computer Engineering | H2 数学 + H2 物理/化学/生物/计算之一 |
+| Humanities | Art, Design and Media | O-Level 数学通过 + GP/KI 良好；需提交作品集 |
+| Humanities | Chinese | H2 中文通过；或 H1 中文良好；或 O-Level 高级华语良好 |
+| Humanities | Communication Studies | H1 数学或 O-Level 附加数学通过 + GP/KI 至少 B 级 |
+| Humanities | Economics | H1 数学良好 + GP/KI 良好 |
+| Humanities | English | GP/KI 良好 |
+| Humanities | Maritime Studies | H1 数学或 O-Level 附加数学通过 |
+
+---
+
 ## 申请关键时间点
 
 | 节点 | 说明 |
