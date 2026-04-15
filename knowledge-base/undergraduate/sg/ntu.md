@@ -121,9 +121,29 @@
 | Humanities | English | SL 英语（良好）|
 | Humanities | Maritime Studies | SL 即可 |
 
+**A-Level 课程**：至少 3 门 A-Level，含专业先修课。以下为各学院/专业对 A-Level 课程体系的最低科目要求：
+
+| 学院 | 专业 | A-Level 科目要求 |
+|------|------|----------------|
+| REP | Renaissance Engineering Programme | A-Level 数学 + A-Level 物理/化学/生物之一；需额外物理（初中水平）+ 英语（良好）|
+| Engineering | 所有工程专业 | A-Level 数学 + A-Level 物理/化学/生物之一；需额外物理（初中水平）|
+| Computing | AI and Society | A-Level 数学或物理/计算机科学之一 |
+| Computing | Computer Science | A-Level 数学或物理/计算机科学之一 |
+| Computing | Data Science and AI | A-Level 数学 |
+| Computing | Business and Computer Engineering | A-Level 数学 + A-Level 物理/化学/生物之一 + 英语（良好）|
+| Computing | Business and Computing | A-Level 数学或物理/计算机之一 + 英语（良好）|
+| Computing | Computer Engineering | A-Level 数学 + A-Level 物理/化学/生物之一；需额外物理（初中水平）|
+| Humanities | Art, Design and Media | A-Level 物理（初中水平）+ 英语（良好）；需提交作品集 |
+| Humanities | Chinese | HSK 6 或 GCE 'O' Level 中文（良好）|
+| Humanities | Communication Studies | 初中附加数学 + 英语（良好）|
+| Humanities | Economics | 初中附加数学 + 英语（良好）|
+| Humanities | English | 英语（良好）|
+| Humanities | Maritime Studies | 初中附加数学 |
+| Engineering | Maritime Studies（Second Major）| 初中附加数学 |
+
 **申请窗口**：2025年10月15日 – 2026年3月19日
 
-**A-Level 课程**：至少 3 门 A-Level，含专业先修课
+**注意**：申请者须完成至少 12 年正规教育或在申请当年参加高中毕业考试。
 
 **中国普通高中**：需提供高中毕业证、会考成绩、高考成绩（建议达到一本线以上）
 
