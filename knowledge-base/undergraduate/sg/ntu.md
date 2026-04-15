@@ -192,6 +192,33 @@
 
 ---
 
+### NUS High School Diploma 路径
+
+适用于持有 NUS High School of Mathematics & Science 文凭的申请者。
+
+**申请窗口**：2025年12月1日 – 2026年1月20日
+
+各学院/专业 NUS High School Diploma 最低科目要求：
+
+| 学院 | 专业 | NUSHS 科目要求 |
+|------|------|----------------|
+| REP | Renaissance Engineering Programme | 数学 Major CAP≥2.0 + 物理/化学/生物之一 Major CAP≥2.0 |
+| Engineering | 所有工程专业 | 数学 Major CAP≥2.0 + 物理/化学/生物之一 Major CAP≥2.0 |
+| Computing | AI and Society | 数学 Major CAP≥2.0 或物理 Major CAP≥2.0 |
+| Computing | Computer Science | 数学 Major CAP≥2.0 或物理 Major CAP≥2.0 |
+| Computing | Data Science and AI | 数学 Major CAP≥2.0 |
+| Computing | Business and Computer Engineering | 数学 Major CAP≥2.0 + 物理/化学/生物之一 Major CAP≥2.0 + 英语语言 Overall CAP 良好 |
+| Computing | Business and Computing | 数学 Major CAP≥2.0 或物理 Major CAP≥2.0 + 英语语言 Overall CAP 良好 |
+| Computing | Computer Engineering | 数学 Major CAP≥2.0 + 物理/化学/生物之一 Major CAP≥2.0 |
+| Humanities | Art, Design and Media | 数学 Major CAP≥2.0 + 英语语言 Overall CAP 良好；需提交作品集 |
+| Humanities | Chinese | 中文语言 Overall CAP 良好 |
+| Humanities | Communication Studies | 数学 Major CAP≥2.0 + 英语语言 Overall CAP 良好 |
+| Humanities | Economics | 数学 Major CAP≥2.0 + 英语语言 Overall CAP 良好 |
+| Humanities | English | 英语语言 Overall CAP 良好 |
+| Humanities | Maritime Studies | 数学 Major CAP≥2.0 |
+
+---
+
 ## 申请关键时间点
 
 | 节点 | 说明 |
