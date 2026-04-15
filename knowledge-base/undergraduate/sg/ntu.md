@@ -147,6 +147,49 @@
 
 **中国普通高中**：需提供高中毕业证、会考成绩、高考成绩（建议达到一本线以上）
 
+### 新加坡 Diploma / Polytechnic 路径（2026-27）
+
+适用于以下院校/机构的相关 Diploma 或应届毕业生：
+- 新加坡 5 所理工学院
+- NAFA
+- LASALLE
+- BCA Academy
+- National Institute of Early Childhood Development
+- ITE（Work-Study Diploma）
+- Singapore Sports School-Auckland University of Technology（仅运动管理与运动科学文凭）
+- National Institute of Education
+
+**申请窗口**：2026年2月1日 – 2026年2月21日
+
+#### LKCMedicine（医学）额外要求
+
+| 项目 | 要求 |
+|------|------|
+| 学术背景 | Health Science 相关 Diploma，且 GPA 良好 |
+| 必交材料 | Academic results、UCAT 成绩、Personal Statement、2 份线上推荐信 |
+| 推荐信要求 | 其中 1 位推荐人必须是 civics tutor / form teacher |
+| UCAT 有效期 | 仅认可入学前 12 个月内成绩 |
+| UCAT 时间 | 申请 AY2026-27 建议在 2025/7/7–2025/9/26 完成 |
+| 面试/选拔 | Yes |
+
+**UCAT** 为 2 小时机考，含 4 个限时子测试，是 LKCMedicine MBBS 录取的硬性组成部分。
+
+#### Nanyang Business School（商学院）Poly 路径额外要求
+
+| 规则 | 说明 |
+|------|------|
+| 数学补修 | 若无 O-Level 数学，或 O-Level 数学低于 C6，录取后必须修读 NTU Mathematics elective |
+| 选拔方式 | On a selective basis |
+
+涉及专业包括：
+- Accountancy
+- Accountancy + Second Major（Entrepreneurship / Sustainability）
+- Accountancy and Data Science & Artificial Intelligence（Double Degree）
+- Accountancy and Business（Double Degree）
+- Applied Computing in Finance
+- Business（Single Major / Double Major）
+- Business + Second Major（Entrepreneurship / Sustainability）
+
 ---
 
 ## 申请关键时间点
