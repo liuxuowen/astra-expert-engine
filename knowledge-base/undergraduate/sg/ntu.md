@@ -36,13 +36,30 @@
 
 | 项目 | 类型 | 特点 |
 |------|------|------|
-| **Renaissance Engineering Programme（REP）** | 工程类双学位 | 4.5年，B.Eng Science + M.Sc Technology Management；含1年海外学习；全封闭住宿 |
+| **Renaissance Engineering Programme（REP）** | 工程类双学位 | 4.5年，B.Eng Science + M.Sc Technology Management；含1年海外学习；全封闭住宿；**需参加选拔测试/面试** |
 | **CN Yang Scholars Programme（CNYSP）** | 理工科荣誉项目 | 专项课程 + 10天海外科研学习 + 5-8月海外毕业项目；强研究导向 |
 | **Turing AI Scholars Programme（TAISP）** | AI 专项 | CS/数据科学/AI&Society 学生可申请；大师班 + AI专家导师制 |
 | **NBS Global Leaders Programme（NGL）** | 商科荣誉项目 | 双学位（会计+商业或其他）；含 UC Berkeley Haas 浸泡项目；高管导师制 |
 | **University Scholars Programme（NTU-USP）** | 文科荣誉项目 | 小班研讨课 + 海外旅行资助；跨学科培养 |
 | **NTU-NIE Teaching Scholars Programme（TSP）** | 教育专项 | 双学位（学科+教育）；可修硕士课程；毕业可成为教师 |
 | **NTU President Award** | 全额奖学金 | 免bond；S$10,000 一次性补贴；4年住宿补贴；优先进入 Honours College |
+
+### 需选拔测试/面试的专业（2026-27）
+
+- Renaissance Engineering Programme（REP）
+- Chinese（需面试）
+- English（需面试）
+- Process Engineering and Synthetic Chemistry（NEW）
+- Robotics（NEW）
+
+### 新增专业（2026-27）
+- **Process Engineering and Synthetic Chemistry**：HL 数学 + HL 化学
+- **Robotics**：HL 数学 + HL 物理/化学/生物/计算机之一
+- **Pharmaceutical Engineering**（工程类新增）
+- **Bioengineering with Second Major in Future Foods**
+- **Chemical and Biomolecular Engineering with Second Major in Future Foods**
+- **Materials Engineering with Second Major in Future Foods**
+- **Environmental Engineering with Second Major in Future Foods**
 
 ---
 
@@ -87,7 +104,24 @@
 
 ### 各课程体系要求
 
-**IB 课程**：需获得 IB 文凭，成绩要求因专业而异
+**IB 课程**：需获得 IB 文凭，以下为各学院各专业最低科目要求（完整列表见原文 prospectus）
+
+| 学院 | 专业 | IB 科目要求 |
+|------|------|------------|
+| REP | Renaissance Engineering Programme | HL 数学 + HL 物理/化学/生物/计算机科学之一 | 
+| Engineering | 所有工程专业 | HL 数学 + HL 物理/化学/生物/计算机科学之一 |
+| Computing | AI and Society | HL 数学或物理/计算机科学（HL）之一 |
+| Computing | Computer Science | HL 数学或物理/计算机科学（HL）之一 |
+| Computing | Data Science and AI | HL 数学 |
+| Computing | Business and Computer Engineering | HL 数学 + HL 物理/化学/生物/计算机之一 + SL 英语（良好）|
+| Humanities | Art, Design and Media | SL 数学 + SL 英语（良好）；需提交作品集 |
+| Humanities | Chinese | SL 中文（良好）|
+| Humanities | Communication Studies | SL 数学 + SL 英语（良好）|
+| Humanities | Economics | SL 数学 + SL 英语（良好）|
+| Humanities | English | SL 英语（良好）|
+| Humanities | Maritime Studies | SL 即可 |
+
+**申请窗口**：2025年10月15日 – 2026年3月19日
 
 **A-Level 课程**：至少 3 门 A-Level，含专业先修课
 
