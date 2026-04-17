@@ -1082,6 +1082,42 @@ AFR 这类榜单和 QS 看的不是同一件事。QS 更偏全球声誉、国际
 - 面试形式（面授/线上）会在邀请通知中说明
 - 详情以 CUHK 招生官网最新安排为准
 
+### 12. 2026 年重考（More Than One Sitting）政策
+
+#### 基本原则
+- 2026年入学申请中，将采用考生最近三次考试中同一科目的最佳成绩计算录取分数
+
+#### 部分专业对重考生有分数调整（Penalty）
+**惩罚幅度 5% 以内：**
+- JS4123 Translation
+
+**惩罚幅度 6%-10%：**
+- JS4202 Integrated BBA
+- JS4214 Global Business Studies
+- JS4226 Hospitality and Real Estate
+- JS4238 Insurance, Financial and Actuarial Analysis
+- JS4240 Professional Accountancy
+- JS4252 Quantitative Finance
+- JS4264 BBA(IBBA) - JD Double Degree Programme
+- JS4320 Human Movement Science and Health Studies
+- JS4329 Physical Education, Exercise Science and Health
+- JS4331 BA (Chinese Language Studies) and BEd (Chinese Language Education)
+- JS4361 BEd in Mathematics and Mathematics Education
+- JS4434 Electronic Engineering
+- JS4501 / JS4502 Medicine（MBChB / MBChB-GPS）
+- JS4848 Government and Public Administration
+- JS4903 Bachelor of Laws
+
+#### 其他说明
+- 未列入表的专业不会对重考成绩施加惩罚
+- 带 # 标记的专业（商科为主）：重考申请人须参加面试，面试表现优异者可免除惩罚
+
+#### 咨询口径
+- 重考不一定是劣势，CUHK 会取最佳成绩计入
+- 商科专业普遍对重考生有 6-10% 惩罚，但面试优秀可弥补
+- 医学和法学专业对重考惩罚较重
+- 详情以 CUHK 招生官网最新信息为准
+
 ### 8. 2026 年本科专业预计招生人数（Projected Enrolment）
 
 #### 数据说明
