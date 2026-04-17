@@ -872,3 +872,68 @@ AFR 这类榜单和 QS 看的不是同一件事。QS 更偏全球声誉、国际
 - 热门专业可能有独立面试或测试要求
 - 申请前须查阅具体专业的项目页面获取最新要求
 - 香港高校整体适合"重视中文环境、离家近、适应成本可控"的家庭
+
+### 7. 2026 年 HKDSE 灵活录取安排（Flexible Admission Arrangement）
+
+#### 政策背景
+鉴于近年 HKDSE 考生在学习和考试中面临诸多挑战，CUHK 在 2026 年继续延续灵活录取政策。自 2012 年 HKDSE 推出以来，CUHK 一直对特定申请者提供灵活审理。
+
+#### 核心内容
+- 适用对象：整体表现优异，但单科成绩未达所报专业入学要求**一个等级**的 HKDSE 考生
+- 审理方式：实施灵活录取的专业将综合考虑申请人的学业和非学业表现，以及面试表现
+- 注意：不是所有专业都实施灵活录取，以各专业具体安排为准
+
+#### 2026 年实施灵活录取安排的专业（部分）
+
+| JUPAS Code | 专业 | 状态 |
+|-----------|------|------|
+| JS4006 | Anthropology | ✅ 实施 |
+| JS4018 | Chinese Language and Literature | ✅ 实施 |
+| JS4032 | English | ✅ 实施 |
+| JS4044 | Fine Arts | ✅ 实施 |
+| JS4056 | History | ✅ 实施 |
+| JS4068 | Japanese Studies | ✅ 实施 |
+| JS4070 | Linguistics | ✅ 实施 |
+| JS4082 | Music | ✅ 实施 |
+| JS4094 | Philosophy | ✅ 实施 |
+| JS4100 | Public Humanities | ✅ 实施 |
+| JS4109 | Religious Studies | ✅ 实施 |
+| JS4111 | Theology | ✅ 实施 |
+| JS4123 | Translation | ✅ 实施 |
+| JS4136 | Chinese Studies | ✅ 实施 |
+| JS4202 | Integrated BBA | ✅ 实施 |
+| JS4214 | Global Business Studies | ✅ 实施 |
+| JS4226 | Hospitality and Real Estate | ✅ 实施 |
+| JS4238 | Insurance, Financial and Actuarial Analysis | ✅ 实施 |
+| JS4240 | Professional Accountancy | ✅ 实施 |
+| JS4252 | Quantitative Finance | ✅ 实施 |
+| JS4254 | Interdisciplinary Major Programme in Global Economics and Finance | ✅ 实施 |
+| JS4320 | Human Movement Science and Health Studies | ✅ 实施 |
+| JS4329 | Physical Education, Exercise Science and Health | ✅ 实施 |
+| JS4408 | Mechanical and Automation Engineering | ✅ 实施 |
+| JS4412 | Computer Science and Engineering | ✅ 实施 |
+| JS4416 | Computational Data Science | ✅ 实施 |
+| JS4428 | Financial Technology | ✅ 实施 |
+| JS4434 | Electronic Engineering | ✅ 实施 |
+| JS4446 | Information Engineering | ✅ 实施 |
+| JS4460 | Biomedical Engineering | ✅ 实施 |
+| JS4462 | Energy and Environmental Engineering | ✅ 实施 |
+| JS4468 | Artificial Intelligence: Systems and Technologies | ✅ 实施 |
+| JS4501 | Bachelor of Medicine and Bachelor of Surgery (MBChB) | ❌ 不实施 |
+| JS4513 | Nursing | ❌ 不实施 |
+| JS4525 | Pharmacy | ❌ 不实施 |
+| JS4542 | Chinese Medicine | ❌ 不实施 |
+| JS4601 | Science (broad-based) | ❌ 不实施 |
+| JS4801 | Social Science (broad-based) | ❌ 不实施 |
+| JS4903 | Bachelor of Laws | ❌ 不实施 |
+
+#### 灵活录取的特殊说明
+- 仅考虑中文语言要求差一个等级的考生（即要求 Level 4，实际为 Level 3）
+- 申请人须满足所报专业的附加要求（如有）
+- 须表现出对该专业的强烈兴趣或承诺（如将专业列入 JUPAS Band A 选择）
+
+#### 咨询口径
+- 灵活录取不等于"降分录取"，而是综合评估
+- 适用于整体优秀但单科稍弱的 HKDSE 考生
+- 医学、护理、法律等热门专业通常不实施此安排
+- 详情以 CUHK 招生官网最新信息为准
