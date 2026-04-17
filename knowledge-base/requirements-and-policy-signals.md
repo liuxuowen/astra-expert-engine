@@ -204,43 +204,43 @@ QuestBridge 对国际生并非全面开放,其核心判断标准是:
 - 不能弱化自主考试的筛选作用
 - 不能把单一院校或单一年份信息泛化为全部政府理工统一要求
 
-## 十点五、南洋理工大学（NTU）中国普高课程体系入学要求（2027学年调整）
+## 十点五、南洋理工大学(NTU)中国普高课程体系入学要求(2027学年调整)
 
 ### 1. 适用对象
-持有中国高中学历的学生（包括应届和往届生），主要依据高考成绩申请。
+持有中国高中学历的学生(包括应届和往届生),主要依据高考成绩申请。
 
 ### 2. 基本入学条件
 
-**学术成绩：**
-- 高考学生：必须达到优异的高考成绩
-- 未参加高考学生：需提供优异的高一、高二成绩（应届生）或优异的高中三年成绩及毕业成绩（往届生）
-- AST（艾思特）成绩（可选）：提交优异的AST成绩可增加录取机会，但不能仅凭AST成绩申请；要求至少报考三科（英语和数学必考）
+**学术成绩:**
+- 高考学生:必须达到优异的高考成绩
+- 未参加高考学生:需提供优异的高一、高二成绩(应届生)或优异的高中三年成绩及毕业成绩(往届生)
+- AST(艾思特)成绩(可选):提交优异的AST成绩可增加录取机会,但不能仅凭AST成绩申请;要求至少报考三科(英语和数学必考)
 
-**英语水平（满足其中一项）：**
-- TOEFL iBT：总分≥90，口语≥25
-- IELTS：总分≥6.0，写作≥6.0，口语≥6.0
-- SAT：总分≥1250（2017年3月后考取）
-- PTE Academic：总分≥55，口语≥55
-- AST 英语考试：≥215分
-- ACT（含作文测试）：总分≥30
-- C1 Advanced：总分≥170，写作≥170，口语≥170
+**英语水平(满足其中一项):**
+- TOEFL iBT:总分≥90,口语≥25
+- IELTS:总分≥6.0,写作≥6.0,口语≥6.0
+- SAT:总分≥1250(2017年3月后考取)
+- PTE Academic:总分≥55,口语≥55
+- AST 英语考试:≥215分
+- ACT(含作文测试):总分≥30
+- C1 Advanced:总分≥170,写作≥170,口语≥170
 
-### 3. 重要政策调整（2027学年起生效）
+### 3. 重要政策调整(2027学年起生效)
 
-- **面试邀请：** 将不再参考高一和高二成绩来决定面试邀请名单
-- **成绩提交：** 所有申请者必须在高考成绩公布后的3天内提交官方正式成绩，否则不予考虑
-- **面试时间：** 改至7月进行
+- **面试邀请:** 将不再参考高一和高二成绩来决定面试邀请名单
+- **成绩提交:** 所有申请者必须在高考成绩公布后的3天内提交官方正式成绩,否则不予考虑
+- **面试时间:** 改至7月进行
 
 ### 4. 申请时间与注意事项
-- 申请时间：2025年10月15日至2026年1月20日
+- 申请时间:2025年10月15日至2026年1月20日
 - 必须在NTU官网在线申请
 - NTU未委托任何中介或机构代理本科入学申请
-- 非热门专业（如医学、计算机、双学位等）对英语有更高要求
+- 非热门专业(如医学、计算机、双学位等)对英语有更高要求
 
 ### 5. 咨询提示
-- 以上为2026年申请季基本框架，2027学年起政策有重大调整（见第3点）
-- 高一高二成绩不再影响面试邀请，对纯高考路线申请者影响不大
-- 3天内提交高考成绩的要求极为严格，需提前与学生/家庭沟通时间节点
+- 以上为2026年申请季基本框架,2027学年起政策有重大调整(见第3点)
+- 高一高二成绩不再影响面试邀请,对纯高考路线申请者影响不大
+- 3天内提交高考成绩的要求极为严格,需提前与学生/家庭沟通时间节点
 
 ## 十一、澳洲本土大学排名(AFR)解读口径
 ### 1. 榜单性质
@@ -409,54 +409,54 @@ AFR 这类榜单和 QS 看的不是同一件事。QS 更偏全球声誉、国际
 - 中国香港与新加坡方向的生活成本、住宿成本应单独核算,不应仅比较学费
 
 ## 十四、考研与留学并行规划口径
-针对"国内考研后想留学，或考研与留学并行推进"的咨询场景，可使用以下指导思路。
+针对"国内考研后想留学,或考研与留学并行推进"的咨询场景,可使用以下指导思路。
 
 ### 1. 核心结论
-留学与考研可以并行规划，不必互斥。英国等部分院校与项目支持先提交本科成绩、在读/毕业材料申请，后补语言成绩，因此考研与留学可以同步推进、互不冲突。
+留学与考研可以并行规划,不必互斥。英国等部分院校与项目支持先提交本科成绩、在读/毕业材料申请,后补语言成绩,因此考研与留学可以同步推进、互不冲突。
 
 ### 2. 适用场景
-- 考研结果不确定，希望保留备选路径
-- 考研与留学同步准备，增加录取机会
-- 考研后成绩不理想，快速转向留学申请
-- 家庭希望同时拿到国内研究生和海外 offer，再择优选择
+- 考研结果不确定,希望保留备选路径
+- 考研与留学同步准备,增加录取机会
+- 考研后成绩不理想,快速转向留学申请
+- 家庭希望同时拿到国内研究生和海外 offer,再择优选择
 
 ### 3. 可复用表达
-对于国内考研后的学生，英国留学可以作为并行规划方向。很多英国院校的硕士项目支持先提交本科成绩单、在读/毕业证明等材料申请，后续再补交语言成绩，因此考研与留学可以同步推进、互不冲突。部分项目在审核时也会关注本科核心课程成绩、实践经历及专业匹配度。需要注意的是，不同学校和专业对语言、材料和截止时间要求差异较大，热门项目通常遵循"先到先审、录满即止"，建议尽早准备、尽早递交。
+对于国内考研后的学生,英国留学可以作为并行规划方向。很多英国院校的硕士项目支持先提交本科成绩单、在读/毕业证明等材料申请,后续再补交语言成绩,因此考研与留学可以同步推进、互不冲突。部分项目在审核时也会关注本科核心课程成绩、实践经历及专业匹配度。需要注意的是,不同学校和专业对语言、材料和截止时间要求差异较大,热门项目通常遵循"先到先审、录满即止",建议尽早准备、尽早递交。
 
 ### 4. 使用边界
 - **不能说成**"多数学校统一允许"
 - **不能把**项目层面的灵活审理写成国家层面的固定政策
-- 热门项目通常先到先审、录满即止，应优先强调尽早准备与尽早递交
-- 不同学校和专业对语言、材料、轮次的要求差异明显，需逐校确认
-- 这类安排适合用于缓解时间窗口焦虑，并为学生保留多条路径，但最终仍需落到学生成绩、语言、预算、职业目标与家庭风险偏好
+- 热门项目通常先到先审、录满即止,应优先强调尽早准备与尽早递交
+- 不同学校和专业对语言、材料、轮次的要求差异明显,需逐校确认
+- 这类安排适合用于缓解时间窗口焦虑,并为学生保留多条路径,但最终仍需落到学生成绩、语言、预算、职业目标与家庭风险偏好
 
-## 十五、阿德莱德大学与南澳大学合并重要更新（2026年1月生效）
+## 十五、阿德莱德大学与南澳大学合并重要更新(2026年1月生效)
 ### 1. 合并事实
-- 2026年1月，原阿德莱德大学（The University of Adelaide）与南澳大学正式合并，成立了全新的阿德莱德大学（Adelaide University）
-- 南澳大学（University of South Australia）作为独立校名已不再存在，其资源、校区、学生均已并入新阿德莱德大学
+- 2026年1月,原阿德莱德大学(The University of Adelaide)与南澳大学正式合并,成立了全新的阿德莱德大学(Adelaide University)
+- 南澳大学(University of South Australia)作为独立校名已不再存在,其资源、校区、学生均已并入新阿德莱德大学
 
 ### 2. 排名表现
-- 新大学在2026年QS世界大学排名中首秀，位列全球第82位，成功进入世界百强
+- 新大学在2026年QS世界大学排名中首秀,位列全球第82位,成功进入世界百强
 
 ### 3. 咨询口径
-- 在涉及澳洲院校咨询时，需注意区分"原阿德莱德大学"、"原南澳大学"与"新阿德莱德大学"
-- 南澳大学不再作为独立院校存在，不应再出现"联系南澳大学"等错误表述
+- 在涉及澳洲院校咨询时,需注意区分"原阿德莱德大学"、"原南澳大学"与"新阿德莱德大学"
+- 南澳大学不再作为独立院校存在,不应再出现"联系南澳大学"等错误表述
 - 新阿德莱德大学的QS排名第82位可作为澳洲院校咨询中的重要参考节点
 
 ### 4. 使用边界
-- 合并后的具体项目设置、校区安排、学位授予细节，建议直接查阅新阿德莱德大学官方最新信息
-- 合并过渡期的政策细节可能仍在调整，咨询中应注意时效性
+- 合并后的具体项目设置、校区安排、学位授予细节,建议直接查阅新阿德莱德大学官方最新信息
+- 合并过渡期的政策细节可能仍在调整,咨询中应注意时效性
 
-## 十六、2026 QS世界大学学科排名要点（2026年3月发布）
+## 十六、2026 QS世界大学学科排名要点(2026年3月发布)
 
 ### 1. 基本背景
 - 2026年QS世界大学学科排名于2026年3月25-26日正式发布
-- 涵盖55个学科，评估了全球1900余所高校的2.1万多个学术项目
+- 涵盖55个学科,评估了全球1900余所高校的2.1万多个学术项目
 
 ### 2. 全球整体趋势
-- 美英持续领先：美国拥有37个全球第一学科；英国有15个学科位列第一
-- 亚洲强势崛起：新加坡被评为全球进步最快的高等教育体系（42个学科进入全球前十）；中国内地有15个学科跻身前十（较2021年翻倍）；中国香港有5个学科进入全球前十
-- 瑞士拥有12个欧洲前五学科（ETH Zurich三项第一）；澳大利亚在体育相关学科中占据第二、三名
+- 美英持续领先:美国拥有37个全球第一学科;英国有15个学科位列第一
+- 亚洲强势崛起:新加坡被评为全球进步最快的高等教育体系(42个学科进入全球前十);中国内地有15个学科跻身前十(较2021年翻倍);中国香港有5个学科进入全球前十
+- 瑞士拥有12个欧洲前五学科(ETH Zurich三项第一);澳大利亚在体育相关学科中占据第二、三名
 
 ### 3. 各学科领域全球前三
 
@@ -469,54 +469,54 @@ AFR 这类榜单和 QS 看的不是同一件事。QS 更偏全球声誉、国际
 | 社会科学与管理 | 1. 哈佛大学 2. 牛津大学 3. 伦敦政治经济学院 |
 
 ### 4. 中国内地院校亮点
-- 清华大学：7个全球前十学科（内地高校领跑）
-- 复旦大学：古典文学与古代史全球第二，数学（第32位）和自然科学（第36位）创历史最佳
-- 中国农业大学：农业与林业全球第五
-- 上海音乐学院：音乐学全球第九（内地院校首次在该学科闯入前十）
-- 四川大学：牙科学全球第十（内地高校在该领域最佳纪录）
-- 中国地质大学：地质学首次进入全球前十（第10位）
+- 清华大学:7个全球前十学科(内地高校领跑)
+- 复旦大学:古典文学与古代史全球第二,数学(第32位)和自然科学(第36位)创历史最佳
+- 中国农业大学:农业与林业全球第五
+- 上海音乐学院:音乐学全球第九(内地院校首次在该学科闯入前十)
+- 四川大学:牙科学全球第十(内地高校在该领域最佳纪录)
+- 中国地质大学:地质学首次进入全球前十(第10位)
 
 ### 5. 中国香港院校亮点
-- 香港大学：牙科学全球第二，教育与培训全球第五，数据科学与人工智能全球第18（全港第一）
-- 香港中文大学：护理学全球第六
-- 香港演艺学院：表演艺术从第20位飙升至全球第十
-- 香港教育大学：教育与培训全球第七
+- 香港大学:牙科学全球第二,教育与培训全球第五,数据科学与人工智能全球第18(全港第一)
+- 香港中文大学:护理学全球第六
+- 香港演艺学院:表演艺术从第20位飙升至全球第十
+- 香港教育大学:教育与培训全球第七
 
 ### 6. 新加坡院校亮点
-- 整体表现：7所高校的42个学科跻身全球前十，数量仅次于英美，整体提升率全球第一
-- 新加坡国立大学：7个学科位列全球前三（包括土木与结构工程、材料科学、数据科学与人工智能等）
-- 南洋理工大学：6个学科位居全球前五（集中在传媒、材料科学及多个工程领域）
+- 整体表现:7所高校的42个学科跻身全球前十,数量仅次于英美,整体提升率全球第一
+- 新加坡国立大学:7个学科位列全球前三(包括土木与结构工程、材料科学、数据科学与人工智能等)
+- 南洋理工大学:6个学科位居全球前五(集中在传媒、材料科学及多个工程领域)
 
 ### 7. 美国与澳大利亚亮点
-- 美国：哈佛、MIT在多个学科稳居榜首；宾夕法尼亚州立大学矿物与采矿工程全球第六；茱莉亚学院在表演艺术领域表现突出
-- 澳大利亚：蒙纳士大学药剂与药理学全球第二；昆士兰大学体育相关学科全球第二，悉尼大学全球第三
+- 美国:哈佛、MIT在多个学科稳居榜首;宾夕法尼亚州立大学矿物与采矿工程全球第六;茱莉亚学院在表演艺术领域表现突出
+- 澳大利亚:蒙纳士大学药剂与药理学全球第二;昆士兰大学体育相关学科全球第二,悉尼大学全球第三
 
 ### 8. 咨询提示
-- QS学科排名与综合排名评估维度不同：学科排名更侧重细分领域的学术声誉和研究影响力
-- 选校时可结合综合排名与学科排名一起看，但不应单一依赖某一排名做决策
-- 同一院校在不同学科的排名差异可能很大，应针对具体专业进行查询
+- QS学科排名与综合排名评估维度不同:学科排名更侧重细分领域的学术声誉和研究影响力
+- 选校时可结合综合排名与学科排名一起看,但不应单一依赖某一排名做决策
+- 同一院校在不同学科的排名差异可能很大,应针对具体专业进行查询
 
-## 十六、美国理海大学（Lehigh University）硕士项目合作信息
+## 十六、美国理海大学(Lehigh University)硕士项目合作信息
 
 ### 1. 学校概况
-- 位置：美国宾夕法尼亚州伯利恒市
-- 类型：私立研究型大学
-- 学生规模：本科及五大研究生院硕博学生总人数约7900人（其中硕博学生约1900人）
-- 成立：1865年
-- 昵称："隐藏的常春藤"
+- 位置:美国宾夕法尼亚州伯利恒市
+- 类型:私立研究型大学
+- 学生规模:本科及五大研究生院硕博学生总人数约7900人(其中硕博学生约1900人)
+- 成立:1865年
+- 昵称:"隐藏的常春藤"
 
 ### 2. 排名与声誉
-- US News全美综合排名：#46
-- LinkedIn全美顶尖大学排名：#17
-- Wall Street Journal/College Pulse全美大学排名：#29
-- 地理位置：距离费城1小时、纽约市中心1.5小时、华盛顿特区3小时
+- US News全美综合排名:#46
+- LinkedIn全美顶尖大学排名:#17
+- Wall Street Journal/College Pulse全美大学排名:#29
+- 地理位置:距离费城1小时、纽约市中心1.5小时、华盛顿特区3小时
 
 ### 3. 五大院系
-- 工程与应用科学学院（P.C. Rossin College of Engineering & Applied Science）
-- 商学院（College of Business）
-- 人文科学学院（College of Arts and Sciences）
-- 教育学院（College of Education）
-- 健康学院（College of Health）
+- 工程与应用科学学院(P.C. Rossin College of Engineering & Applied Science)
+- 商学院(College of Business)
+- 人文科学学院(College of Arts and Sciences)
+- 教育学院(College of Education)
+- 健康学院(College of Health)
 
 ### 4. 可合作硕士项目
 
@@ -532,140 +532,140 @@ AFR 这类榜单和 QS 看的不是同一件事。QS 更偏全球声誉、国际
 
 ### 5. 特色项目
 
-**联合国合作：**
+**联合国合作:**
 - 全球第6所获联合国NGO认可大学
-- 学生参与方式：LU/UN Partnership实习、Greening the Blue、UNA-Lehigh Student Club、SDG展示汇报
+- 学生参与方式:LU/UN Partnership实习、Greening the Blue、UNA-Lehigh Student Club、SDG展示汇报
 
-**艾柯卡全球领导力研究所（Lee Iacocca Institute）：**
-- Iacocca International Internship Program（国际实习机会与资助）
-- Iacocca Global Entrepreneurship Intensive（高中生沉浸式项目）
-- Iacocca Global Future Leaders Lab: Silicon Valley（高中生密集项目）
+**艾柯卡全球领导力研究所(Lee Iacocca Institute):**
+- Iacocca International Internship Program(国际实习机会与资助)
+- Iacocca Global Entrepreneurship Intensive(高中生沉浸式项目)
+- Iacocca Global Future Leaders Lab: Silicon Valley(高中生密集项目)
 
-**贝克创新与创业学院（Baker Institute）：**
+**贝克创新与创业学院(Baker Institute):**
 - 创业大赛、导师指导、孵化器支持
 - 协助师生将科研成果转化为可推动经济和社会发展的项目
 
-**ICAPE（学术和专业英语国际中心）：**
+**ICAPE(学术和专业英语国际中心):**
 - 提供非学分与学分课程、工作坊、辅导及测评服务
 
 ### 6. 咨询提示
-- 理海大学工程类专业实力突出，适合有工程、数据、AI方向申请需求的学生
-- 学校规模较小（约7900人），师生比1:10，校友联系紧密
+- 理海大学工程类专业实力突出,适合有工程、数据、AI方向申请需求的学生
+- 学校规模较小(约7900人),师生比1:10,校友联系紧密
 - UN NGO身份为有意参与国际组织实践的学生提供独特机会
 - Iacocca Institute的国际实习和创业项目对本科和硕士学生均开放
 
 ## 十七、知识库使用原则
 - 本文件优先沉淀"规则、门槛、趋势、政策"类知识点
 - 后续类似新增内容应尽量并入现有章节
-- 只有当主题明显独立且内容持续增长时，才考虑拆分新子文档
+- 只有当主题明显独立且内容持续增长时,才考虑拆分新子文档
 
-## 十八、英国PSW毕业生签证新政（2026年）
+## 十八、英国PSW毕业生签证新政(2026年)
 
 | 字段 | 内容 |
 |------|------|
 | 适用人群 | 英国留学生 · 本科/硕士/博士 |
 | 适用场景 | 毕业后留英规划、签证申请时间节点 |
-| 核心判断 | STEM专业本科/硕士PSW有效期延长至3年；非STEM缩至18个月；博士统一3年 |
-| 边界条件 | 2026年12月31日前毕业的过渡期学生仍可享受2年（非STEM） |
-| 常见误区 | 非STEM并非一刀切至18个月，过渡期有保护 |
-| 专家原话摘要 | "STEM本科及硕士PSW延长至3年；非STEM缩至18个月；博士维持3年" |
+| 核心判断 | STEM专业本科/硕士PSW有效期延长至3年;非STEM缩至18个月;博士统一3年 |
+| 边界条件 | 2026年12月31日前毕业的过渡期学生仍可享受2年(非STEM) |
+| 常见误区 | 非STEM并非一刀切至18个月,过渡期有保护 |
+| 专家原话摘要 | "STEM本科及硕士PSW延长至3年;非STEM缩至18个月;博士维持3年" |
 | 关联话题 | [[英国留学]] [[PSW签证]] [[英国移民政策]] |
 | 录入方式 | 专家讨论沉淀 |
 | 录入时间 | 2026-04 |
 
 ### 咨询口径
-- STEM专业本科及硕士毕业生PSW签证有效期延长至3年，对理工科留英学生是明显利好
-- 非STEM专业PSW缩短至18个月，但对2026年12月31日前毕业的学生有过渡期保护（仍可享受2年）
-- 博士毕业生无论专业，PSW均维持3年不变
+- STEM专业本科及硕士毕业生PSW签证有效期延长至3年,对理工科留英学生是明显利好
+- 非STEM专业PSW缩短至18个月,但对2026年12月31日前毕业的学生有过渡期保护(仍可享受2年)
+- 博士毕业生无论专业,PSW均维持3年不变
 - 具体政策细节应以英国移民局官方最新公告为准
 
-## 十九、新加坡国立大学（NUS）2026/2027 本科招生与奖助学金口径
+## 十九、新加坡国立大学(NUS)2026/2027 本科招生与奖助学金口径
 
 ### 1. 学校整体认知
 #### 可直接复用的基础信息
 - NUS 2026 QS 世界大学排名全球第 8、亚洲第 1
-- Global Employability University Ranking and Survey 2026 中，就业力全球第 8
-- 本科阶段提供 60+ bachelor’s degrees，130+ double / concurrent / joint degrees
-- 本科生规模约 30,000+，教师约 2,700 人
+- Global Employability University Ranking and Survey 2026 中,就业力全球第 8
+- 本科阶段提供 60+ bachelor's degrees,130+ double / concurrent / joint degrees
+- 本科生规模约 30,000+,教师约 2,700 人
 - 校园内有 200+ student organisations
-- 国际化程度高，校园覆盖 120+ 国籍学生
+- 国际化程度高,校园覆盖 120+ 国籍学生
 - 约 1/2 学生拥有海外学习或全球项目经历
 
 #### 咨询中的可复用表达
 - NUS 可以作为亚洲顶尖、全球认可度高、就业导向明确的新加坡本科代表院校
-- 对重视学校品牌、亚洲区位、安全性、英文授课和毕业后区域就业连接的家庭，NUS 是高频核心选项
-- 在家长沟通中，NUS 不应只被理解为“新加坡本地强校”，而应被定位为“亚洲头部、全球前十梯队的综合研究型大学”
+- 对重视学校品牌、亚洲区位、安全性、英文授课和毕业后区域就业连接的家庭,NUS 是高频核心选项
+- 在家长沟通中,NUS 不应只被理解为"新加坡本地强校",而应被定位为"亚洲头部、全球前十梯队的综合研究型大学"
 
 ### 2. 学术结构与本科培养特点
 #### 本科培养的核心特征
-- 采用模块制（Modular System），学生可在课程范围内灵活选课
-- Academic Year 一般从 8 月开始，到次年 7 月结束；通常包含两个 semester
-- 工作量以 units 计算，1 unit 约等于每周 2.5 小时学习投入
-- 学生一般每学期修读 20 units，约等于每周 50 小时学习强度
+- 采用模块制(Modular System),学生可在课程范围内灵活选课
+- Academic Year 一般从 8 月开始,到次年 7 月结束;通常包含两个 semester
+- 工作量以 units 计算,1 unit 约等于每周 2.5 小时学习投入
+- 学生一般每学期修读 20 units,约等于每周 50 小时学习强度
 - GPA 采用 5 分制
-- 多数四年制荣誉学位的划分为：
+- 多数四年制荣誉学位的划分为:
   - Honours (Highest Distinction): 4.50+
-  - Honours (Distinction): 4.00–4.49
-  - Honours (Merit): 3.50–3.99
-  - Honours: 3.00–3.49
-  - Pass: 2.00–2.99
+  - Honours (Distinction): 4.00-4.49
+  - Honours (Merit): 3.50-3.99
+  - Honours: 3.00-3.49
+  - Pass: 2.00-2.99
 
 #### 培养机制上的亮点
 - 允许 second major、minor、specialisation、double degree、concurrent degree、joint degree 等多种组合
-- 设有 Grade-free Scheme：前两年可使用 S/U 机制减轻试错压力
+- 设有 Grade-free Scheme:前两年可使用 S/U 机制减轻试错压力
 - General Education 强调 Data Literacy、Digital Literacy、Cultures and Connections、Singapore Studies、Communities and Engagement 等通识能力
-- 有 Design-Your-Own-Course、UROP、UREx、iDP、NOC 等项目，强调跨学科、研究和创新创业训练
+- 有 Design-Your-Own-Course、UROP、UREx、iDP、NOC 等项目,强调跨学科、研究和创新创业训练
 
 #### 咨询口径
-- NUS 本科并非单纯“按专业固定培养”，而是兼具强专业深度与跨学科组合弹性
-- 对学术能力强、愿意主动规划课程路径的学生，NUS 的制度设计有较高发挥空间
-- 不能只把 NUS 理解为“考试型亚洲大学”，其课程体系实际兼顾探索性、研究导向和全球流动性
+- NUS 本科并非单纯"按专业固定培养",而是兼具强专业深度与跨学科组合弹性
+- 对学术能力强、愿意主动规划课程路径的学生,NUS 的制度设计有较高发挥空间
+- 不能只把 NUS 理解为"考试型亚洲大学",其课程体系实际兼顾探索性、研究导向和全球流动性
 
 ### 3. 学院与专业分布认知
 #### 高关注学院/方向
-- NUS Business School：Accountancy、Finance、Marketing、Business Economics、Applied Business Analytics 等
-- School of Computing：Artificial Intelligence、Computer Science、Business Analytics、Information Security、Business Artificial Intelligence Systems 等
-- College of Design and Engineering：Biomedical Engineering、Chemical Engineering、Civil Engineering、Electrical Engineering、Mechanical Engineering、Robotics and Machine Intelligence、Architecture、Industrial Design 等
-- College of Humanities and Sciences：涵盖人文社科与理学，支持更高的交叉组合空间
+- NUS Business School:Accountancy、Finance、Marketing、Business Economics、Applied Business Analytics 等
+- School of Computing:Artificial Intelligence、Computer Science、Business Analytics、Information Security、Business Artificial Intelligence Systems 等
+- College of Design and Engineering:Biomedical Engineering、Chemical Engineering、Civil Engineering、Electrical Engineering、Mechanical Engineering、Robotics and Machine Intelligence、Architecture、Industrial Design 等
+- College of Humanities and Sciences:涵盖人文社科与理学,支持更高的交叉组合空间
 - Faculty of Law、Yong Loo Lin School of Medicine、Faculty of Dentistry、Nursing、Pharmacy 也都是高竞争方向
 
 #### 新增或值得关注项目
-- Geospatial Intelligence（跨学科新专业）
+- Geospatial Intelligence(跨学科新专业)
 - Nursing + Biomedical Informatics 并读项目
-- Acacia College（住宿学院，聚焦 AI）
+- Acacia College(住宿学院,聚焦 AI)
 
 #### 咨询口径
-- NUS 的强势方向不止商科和计算机，工程、数据、法律、医学、药学、人文社科与交叉学科同样具备很强竞争力
-- 对目标明确的学生，应尽早确认目标专业是否有先修课、额外面试/测试、英语要求或独立申请流程
+- NUS 的强势方向不止商科和计算机,工程、数据、法律、医学、药学、人文社科与交叉学科同样具备很强竞争力
+- 对目标明确的学生,应尽早确认目标专业是否有先修课、额外面试/测试、英语要求或独立申请流程
 
 ### 4. 国际学生申请认知与校园适应信息
 #### 国际学生环境与支持
 - 国际生可参与 Pre-Arrival Connection Programme (PACP)
-- 设有 Singapore Touchdown Cultural Intelligence (CQ) Workshop，帮助国际学生做文化适应
-- 英语是 NUS 的教学语言，也是校园学习与日常沟通的核心语言
-- 首年国际学生如在截止前申请宿舍，享有住宿优先考虑
-- 校内住宿主要分为 4 类：Halls of Residence、Houses、Residential Colleges、Student Residences（后者多为高年级）
+- 设有 Singapore Touchdown Cultural Intelligence (CQ) Workshop,帮助国际学生做文化适应
+- 英语是 NUS 的教学语言,也是校园学习与日常沟通的核心语言
+- 首年国际学生如在截止前申请宿舍,享有住宿优先考虑
+- 校内住宿主要分为 4 类:Halls of Residence、Houses、Residential Colleges、Student Residences(后者多为高年级)
 
 #### 新加坡环境认知
-- 新加坡整体安全性高，公共交通便捷
-- 校园及周边生活便利，适合作为国际学生初次海外本科目的地之一
+- 新加坡整体安全性高,公共交通便捷
+- 校园及周边生活便利,适合作为国际学生初次海外本科目的地之一
 
 #### 咨询口径
-- 对首次出国、希望英文环境但又担心适应成本过高的家庭，新加坡/NUS 是接受度较高的路径
-- NUS 的国际学生支持重点在“顺利落地与持续适应”，适合强调安全、秩序、便利性和亚洲文化相对接近的家庭
+- 对首次出国、希望英文环境但又担心适应成本过高的家庭,新加坡/NUS 是接受度较高的路径
+- NUS 的国际学生支持重点在"顺利落地与持续适应",适合强调安全、秩序、便利性和亚洲文化相对接近的家庭
 
-### 5. 重点专业先修要求（国际申请场景）
+### 5. 重点专业先修要求(国际申请场景)
 #### 需要重点关注的基础门槛
-- Business Administration / Business Analytics / Business Artificial Intelligence Systems / Computer Science / Artificial Intelligence / Information Security：通常要求 Year 12 或同等层级的 Mathematics
-- Computer Engineering：通常要求 Mathematics + Physics 或 Chemistry
-- Engineering 大类：通常要求 Mathematics；不同专业可能另有补充要求
-- Dentistry：通常要求 Chemistry + Biology 或 Physics
-- Medicine：通常要求 Chemistry + Biology 或 Physics；部分资格还可能要求 BMAT / UCAT
-- Nursing：通常要求在 Biology、Chemistry、Computing、Physics、Physical Science、Mathematics / Further Mathematics 中满足任意两门
-- Law：通常要求较高英语能力，如 IELTS 7.0、TOEFL iBT 100、SAT EBRW 700、AP English Language 4 分等
-- Pharmacy / Pharmaceutical Science：通常要求较强的 Chemistry，另配 Biology / Mathematics / Physics 中之一
-- Architecture / Landscape Architecture：通常要求 Chemistry / Mathematics / Physics / Physical Science 之一
-- Industrial Design：通常要求 Arts / Economics / Mathematics / Physics 之一
+- Business Administration / Business Analytics / Business Artificial Intelligence Systems / Computer Science / Artificial Intelligence / Information Security:通常要求 Year 12 或同等层级的 Mathematics
+- Computer Engineering:通常要求 Mathematics + Physics 或 Chemistry
+- Engineering 大类:通常要求 Mathematics;不同专业可能另有补充要求
+- Dentistry:通常要求 Chemistry + Biology 或 Physics
+- Medicine:通常要求 Chemistry + Biology 或 Physics;部分资格还可能要求 BMAT / UCAT
+- Nursing:通常要求在 Biology、Chemistry、Computing、Physics、Physical Science、Mathematics / Further Mathematics 中满足任意两门
+- Law:通常要求较高英语能力,如 IELTS 7.0、TOEFL iBT 100、SAT EBRW 700、AP English Language 4 分等
+- Pharmacy / Pharmaceutical Science:通常要求较强的 Chemistry,另配 Biology / Mathematics / Physics 中之一
+- Architecture / Landscape Architecture:通常要求 Chemistry / Mathematics / Physics / Physical Science 之一
+- Industrial Design:通常要求 Arts / Economics / Mathematics / Physics 之一
 
 #### 须参加额外测试/面试的高关注专业
 - Architecture
@@ -675,62 +675,62 @@ AFR 这类榜单和 QS 看的不是同一件事。QS 更偏全球声誉、国际
 - Law
 - Medicine
 - Nursing
-- Philosophy, Politics, and Economics（在主招生简章中列出）
+- Philosophy, Politics, and Economics(在主招生简章中列出)
 - Music 需走独立申请与 audition 流程
 
 #### 咨询使用边界
-- 以上属于 2026/2027 学年的官方口径，适合做方向性预审与前期筛选
-- 真正递交前，仍需逐一核查学生所属课程体系（A-Level、IB、各国高中文凭等）对应要求
-- 不能把 Year 12 先修要求简单等同于“只看是否学过”，实际还会结合成绩强度与整体竞争情况综合判断
+- 以上属于 2026/2027 学年的官方口径,适合做方向性预审与前期筛选
+- 真正递交前,仍需逐一核查学生所属课程体系(A-Level、IB、各国高中文凭等)对应要求
+- 不能把 Year 12 先修要求简单等同于"只看是否学过",实际还会结合成绩强度与整体竞争情况综合判断
 
 ### 6. 国际学生资格与标化认知
 #### 可复用基础判断
 - 国际申请者通常需完成或即将完成所在国家高中阶段课程
-- 不同国家课程体系（如 IB、加拿大高中文凭、印尼高中体系、意大利高中体系等）有各自适配要求
-- 对于未提交 actual results 的申请者，部分情况下需要补充标准化考试成绩
+- 不同国家课程体系(如 IB、加拿大高中文凭、印尼高中体系、意大利高中体系等)有各自适配要求
+- 对于未提交 actual results 的申请者,部分情况下需要补充标准化考试成绩
 - AP、ACT 等标准化考试可在部分体系中作为补充或必要材料
 
-#### 典型标化要求（官方材料口径）
-- AP：除 Law 外，多数项目要求 AP Calculus BC；Law 可接受更宽的 AP 组合
-- ACT with Writing：最低 composite 29，writing 8
+#### 典型标化要求(官方材料口径)
+- AP:除 Law 外,多数项目要求 AP Calculus BC;Law 可接受更宽的 AP 组合
+- ACT with Writing:最低 composite 29,writing 8
 - 不同专业仍需同时满足其 prerequisite
 
 #### 咨询口径
-- NUS 国际申请不是“统一一套全球门槛”，而是按课程体系分别审理
-- 顾问在前期判断时，应先确认学生课程体系，再确认是否需额外提交 AP / ACT / 英语成绩，而不是直接套用单一录取标准
+- NUS 国际申请不是"统一一套全球门槛",而是按课程体系分别审理
+- 顾问在前期判断时,应先确认学生课程体系,再确认是否需额外提交 AP / ACT / 英语成绩,而不是直接套用单一录取标准
 
 ### 7. 招生流程与申请时间口径
-#### 普通本科主申请流程（根据 2026/2027 官方材料）
+#### 普通本科主申请流程(根据 2026/2027 官方材料)
 - 先确认自身 qualification 对应的申请时间窗
-- 在线提交申请，并上传支持材料
-- 按要求支付申请费（国际学生 prospectus 中写明申请费为 S$20）
-- 若被 shortlisted，参加 interview / test / audition
-- 通过 Applicant Portal 跟踪结果、接受 offer 或发起 appeal（如适用）
+- 在线提交申请,并上传支持材料
+- 按要求支付申请费(国际学生 prospectus 中写明申请费为 S$20)
+- 若被 shortlisted,参加 interview / test / audition
+- 通过 Applicant Portal 跟踪结果、接受 offer 或发起 appeal(如适用)
 
 #### 咨询口径
-- NUS 本科申请流程相对规范、时间节点清晰，适合做“标准化推进”
-- 但热门专业存在 interview / test / actual results 提交等额外节点，不能只盯住统一网申截止日
-- 对国际学生尤其要提醒：专业要求、课程体系要求、补件和面试通知，必须通过 Applicant Portal 持续跟踪
+- NUS 本科申请流程相对规范、时间节点清晰,适合做"标准化推进"
+- 但热门专业存在 interview / test / actual results 提交等额外节点,不能只盯住统一网申截止日
+- 对国际学生尤其要提醒:专业要求、课程体系要求、补件和面试通知,必须通过 Applicant Portal 持续跟踪
 
-### 8. 学费、生活费与服务义务（MOE Tuition Grant）
+### 8. 学费、生活费与服务义务(MOE Tuition Grant)
 #### 官方可复用认知
 - NUS 学费通常建立在新加坡教育部 MOE Tuition Grant 补贴体系上
-- 对国际学生而言，获得 MOE Tuition Grant 后，学费会明显低于 full fee rate
-- 根据 Scholarship & Financial Aid 2026/2027 官方文件，不同国籍与专业在 MOE Tuition Grant 后的学费，大致范围约为 S$8,250 至 S$83,950 / 年
+- 对国际学生而言,获得 MOE Tuition Grant 后,学费会明显低于 full fee rate
+- 根据 Scholarship & Financial Aid 2026/2027 官方文件,不同国籍与专业在 MOE Tuition Grant 后的学费,大致范围约为 S$8,250 至 S$83,950 / 年
 - 全日制本科生生活费保守估算约 S$6,000 / 年
-- 住宿费保守估算约 S$5,750 / 年（官方材料按约 35 周估算）
+- 住宿费保守估算约 S$5,750 / 年(官方材料按约 35 周估算)
 
-#### 服务义务（Service Obligation）
+#### 服务义务(Service Obligation)
 - Singapore Citizens 的 MOE Tuition Grant 无服务义务
-- 非新加坡公民通常需在本科毕业后完成 3 年服务义务（与新加坡实体雇主）
-- Medicine 和 Dentistry 学生无论国籍，都需履行更长的 4–6 年相关服务义务 / bond
+- 非新加坡公民通常需在本科毕业后完成 3 年服务义务(与新加坡实体雇主)
+- Medicine 和 Dentistry 学生无论国籍,都需履行更长的 4-6 年相关服务义务 / bond
 
 #### 咨询口径
-- NUS 的“性价比”不能只看表面学费，要同时判断学生是否拿到 MOE Tuition Grant，以及是否接受毕业后服务义务
-- 对国际家庭，必须提前讲清：补贴学费通常伴随 3 年服务义务，这不是可忽略的小条款
-- 医学、牙医等项目的 bond 更长，路径决策要更谨慎
+- NUS 的"性价比"不能只看表面学费,要同时判断学生是否拿到 MOE Tuition Grant,以及是否接受毕业后服务义务
+- 对国际家庭,必须提前讲清:补贴学费通常伴随 3 年服务义务,这不是可忽略的小条款
+- 医学、牙医等项目的 bond 更长,路径决策要更谨慎
 
-### 9. 奖学金体系（2026/2027）
+### 9. 奖学金体系(2026/2027)
 #### 六类 NUS 本校 Freshmen Scholarships
 - NUS Global Merit Scholarship
 - NUS Merit Scholarship
@@ -739,7 +739,7 @@ AFR 这类榜单和 QS 看的不是同一件事。QS 更偏全球声誉、国际
 - NUS Performing & Visual Arts Scholarship
 - NUS Sports Scholarship
 
-#### 常见覆盖内容（以官方奖学金文件为准）
+#### 常见覆盖内容(以官方奖学金文件为准)
 - 补贴后学费全额覆盖
 - S$6,000 / 年生活补助
 - S$2,000 一次性电脑补助
@@ -750,43 +750,43 @@ AFR 这类榜单和 QS 看的不是同一件事。QS 更偏全球声誉、国际
 
 #### 关键申请要求
 - 六类本校 freshmen scholarships 主要面向 Singapore Citizens
-- 常见要求包括：学术成绩突出、领导力、较好的课外活动记录
+- 常见要求包括:学术成绩突出、领导力、较好的课外活动记录
 - 申请时间通常为 2 月 1 日至 3 月 19 日
-- 申请路径为：先提交入学申请，再提交奖学金申请与材料
-- 3–5 月可能安排面试，结果通常在 5 月底前公布
+- 申请路径为:先提交入学申请,再提交奖学金申请与材料
+- 3-5 月可能安排面试,结果通常在 5 月底前公布
 
 #### 国际学生相关奖学金
-以下奖学金与国际学生关系更密切：
+以下奖学金与国际学生关系更密切:
 - ASEAN Undergraduate Scholarship
 - Science & Technology Undergraduate Scholarship
 - NUS International Undergraduate Scholarship
 - NUS College International Scholarship
-- The Association of Banks in Singapore – Goh Keng Swee Scholarship
+- The Association of Banks in Singapore - Goh Keng Swee Scholarship
 
 #### 咨询口径
-- 顾问不能把 NUS 六类本校奖学金默认理解为国际生普遍可申；其中核心 freshmen scholarships 主要是新加坡公民向
+- 顾问不能把 NUS 六类本校奖学金默认理解为国际生普遍可申;其中核心 freshmen scholarships 主要是新加坡公民向
 - 国际生更应重点关注 ASEAN Scholarship、S&T Scholarship、NUS International Undergraduate Scholarship、NUS College International Scholarship 等自动纳入评估或单独适配的奖项
-- 奖学金申请应被视为“和本科申请同步推进”的独立工作流，不能等录取后再补想
+- 奖学金申请应被视为"和本科申请同步推进"的独立工作流,不能等录取后再补想
 
 ### 10. 财务资助与国际生可用性判断
 #### 基本原则
-- NUS 财务资助分为奖学金（merit-based）与 financial aid（need-based）两套逻辑
+- NUS 财务资助分为奖学金(merit-based)与 financial aid(need-based)两套逻辑
 - financial aid 包括 loan、bursary、grant、work-study 等
-- 不同 residency（SC / SPR / IS）对应的可申请项目不同
+- 不同 residency(SC / SPR / IS)对应的可申请项目不同
 
 #### 对国际学生的重点提醒
-- 国际生并非完全没有 financial aid，但可用项目和收入门槛与新加坡公民/PR 不同
-- MOE Study Loan 对国际生可适用，但通常要求 PCI up to S$1,200
-- MOE Tuition Fee Loan 对国际生可申请，但覆盖额度按 Singapore Citizen 对应学费标准计算，而不是按国际生实际全额学费计算
+- 国际生并非完全没有 financial aid,但可用项目和收入门槛与新加坡公民/PR 不同
+- MOE Study Loan 对国际生可适用,但通常要求 PCI up to S$1,200
+- MOE Tuition Fee Loan 对国际生可申请,但覆盖额度按 Singapore Citizen 对应学费标准计算,而不是按国际生实际全额学费计算
 - 一些 bursary / grant 主要偏向 Singapore Citizens
 
 #### 咨询口径
-- 国际家庭在看 NUS 时，不能简单理解为“只要录取就有足够助学金”
-- 需要分清：
+- 国际家庭在看 NUS 时,不能简单理解为"只要录取就有足够助学金"
+- 需要分清:
   1. 是否拿到 Tuition Grant
   2. 是否拿到 merit scholarship
   3. 是否满足 need-based aid 条件
-- 在预算沟通中，NUS 可被视为“有机会比英美显著便宜”，但前提是补贴、奖学金与家庭支付能力结构要算清楚
+- 在预算沟通中,NUS 可被视为"有机会比英美显著便宜",但前提是补贴、奖学金与家庭支付能力结构要算清楚
 
 ### 11. 住宿与校园生活认知
 #### 校内住宿类型
@@ -796,9 +796,9 @@ AFR 这类榜单和 QS 看的不是同一件事。QS 更偏全球声誉、国际
 - Residential Colleges
 
 #### 咨询可复用重点
-- 国际新生可优先申请住宿，这一点对首年落地适应非常关键
+- 国际新生可优先申请住宿,这一点对首年落地适应非常关键
 - Halls / Houses / Residential Colleges 在生活氛围、活动密度、学术要求上差异明显
-- 对希望更强社区感和英语沉浸的学生，住宿选择本身就是培养体验的一部分
+- 对希望更强社区感和英语沉浸的学生,住宿选择本身就是培养体验的一部分
 
 ### 12. 全球项目与职业发展认知
 #### 全球流动与创业项目
@@ -813,15 +813,62 @@ AFR 这类榜单和 QS 看的不是同一件事。QS 更偏全球声誉、国际
 - 官方材料显示每年可连接 10,000+ internships、800+ career events、7,000+ advisory sessions
 
 #### 咨询口径
-- NUS 的价值不只是“在新加坡读书”，而是其本身带有较强国际流动和就业连接能力
-- 对重视毕业后求职与区域发展机会的家庭，可以把 CFG、SEP、NOC 作为 NUS 路径的重要卖点
+- NUS 的价值不只是"在新加坡读书",而是其本身带有较强国际流动和就业连接能力
+- 对重视毕业后求职与区域发展机会的家庭,可以把 CFG、SEP、NOC 作为 NUS 路径的重要卖点
 
 ### 13. 顾问使用边界与风险提示
-- NUS 的官方信息更新频繁，实际申请时应以当季官网与 Applicant Portal 为准
-- 不同课程体系、不同专业、不同 residency 身份适用规则差异大，不能套用单一门槛
-- 补贴学费、奖学金和 financial aid 是三套不同机制，咨询时必须拆开讲
-- “国际生可申请”不等于“国际生高概率拿到”
+- NUS 的官方信息更新频繁,实际申请时应以当季官网与 Applicant Portal 为准
+- 不同课程体系、不同专业、不同 residency 身份适用规则差异大,不能套用单一门槛
+- 补贴学费、奖学金和 financial aid 是三套不同机制,咨询时必须拆开讲
+- "国际生可申请"不等于"国际生高概率拿到"
 - Medicine / Dentistry / Law / Music / Architecture 等方向需特别关注附加审核、面试、作品集、考试或 bond 要求
 
 ### 14. 可直接复用的总结表达
-新加坡国立大学（NUS）是亚洲顶尖、全球高认可度的综合研究型大学，本科申请既重视学术基础，也强调专业匹配与课程体系适配。对国际学生而言，NUS 的核心吸引力在于：全球前列的学校品牌、英语授课、亚洲区位优势、较高安全性、较强就业连接，以及在获得补贴后相对可控的整体成本。但在具体咨询中，必须同步讲清专业先修要求、课程体系差异、MOE Tuition Grant 及其服务义务、国际生奖学金可得性和不同项目的附加审核要求，避免把“高性价比”误讲成“低门槛”或“低成本无条件可得”。
+新加坡国立大学（NUS）是亚洲顶尖、全球高认可度的综合研究型大学，本科申请既重视学术基础，也强调专业匹配与课程体系适配。对国际学生而言，NUS 的核心吸引力在于：全球前列的学校品牌、英语授课、亚洲区位优势、较高安全性、较强就业连接，以及在获得补贴后相对可控的整体成本。但在具体咨询中，必须同步讲清专业先修要求、课程体系差异、MOE Tuition Grant 及其服务义务、国际生奖学金可得性和不同项目的附加审核要求，避免把"高性价比"误讲成"低门槛"或"低成本无条件可得"。
+
+## 二十、香港中文大学（CUHK）非本地生申请要求
+
+### 1. 国际学生招生通道（International Students Admissions Scheme）
+适用对象为需要学生签证进入香港留学的非本地申请人，包括：
+- 需要学生签证/进入许可在香港学习的人
+- 持有 Immigration Arrangements for Non-local Graduates (IANG) 签证/进入许可的人
+- 在签发时已年满 18 岁的受养人签证/进入许可持有者
+
+### 2. 通用学术资格要求
+申请者须在申请学年的 9 月 1 日前满足以下任一资格：
+
+**GCE AL / International AL：**
+- 3 科 AL 通过；或
+- 2 科 AL + 2 科 AS 通过（同一考试周期内取得，所有成绩须在 12 个月内取得）
+- 各课程项目有独立的科目要求
+
+**IB 文凭：**
+- 须满足各专业具体科目与分数要求
+
+**其他高中资格：**
+- 须持有所属国家/地区认可的高中毕业资格，并能以此资格直接申请本国大学
+
+### 3. Advanced Standing（学分抵免入学）
+满足特定条件的申请者，可申请 Advanced Standing：
+- IB、GCE AL / International AL、Cambridge Pre-U、HKALE、副学位/高级文凭持有者均有机会
+- 可缩短正常修业期，最多可减 24 学分（约一年）
+
+### 4. 标化参考线（录取数据参考）
+根据 CUHK 官方录取统计数据：
+- IB 最高录取分数：45/45
+- GCE AL 最高录取分数：6A*
+- SAT 最高录取分数：1580/1600
+- 最低参考分数因专业而异，以官方具体项目为准
+
+### 5. 申请材料要求
+- 公开考试成绩单（IB / SAT / AP / ACT / GCE / GCSE / IGCSE / 高考等）
+- College Board SAT 代码：5690
+- ACT 代码：7050
+- 英语/中文语言测试成绩（TOEFL / IELTS 等）
+- TOEFL 代码：0812
+
+### 6. 咨询提示
+- CUHK 对不同课程体系（AL/IB/高考等）分别审理，不能用统一标准套用
+- 热门专业可能有独立面试或测试要求
+- 申请前须查阅具体专业的项目页面获取最新要求
+- 香港高校整体适合"重视中文环境、离家近、适应成本可控"的家庭
