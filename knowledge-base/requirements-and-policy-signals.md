@@ -982,3 +982,36 @@ AFR 这类榜单和 QS 看的不是同一件事。QS 更偏全球声誉、国际
 - 护理（217）、综合 BBA（212）、专业会计（122）、计算机（113）等属于招生规模较大的专业
 - 医学方向具体名额未公开列出，需单独确认
 - 预计招生名额为指示性数据，实际可能调整
+
+### 9. 2026 年 ApL（应用学习）课程认可专业对照
+
+#### 背景说明
+ApL（Applied Learning）是 HKDSE 体系下的实践导向课程。CUHK 在录取时，部分专业会考虑申请人修读的 ApL 课程成绩。
+
+#### 认可 ApL 课程的主要专业（2026 Entry）
+
+| 专业 | 认可 ApL 课程范围 |
+|------|----------------|
+| Chinese Language and Literature（JS4018） | 翻译类：Practical Translation (CHI-ENG)；戏剧类：Introduction to Theatre Arts |
+| English（JS4032） | 英语类：English Communication、English for Service Professionals、English for Business Services、Creative English – Biz and Media、Creative English – PR and Marketing |
+| History（JS4056） | 历史、文化类 ApL |
+| Japanese Studies（JS4068） | 应用日语类：Applied Japanese and Japanese Culture、Everyday Japanese and Japanese Culture |
+| Fine Arts（JS4044） | 创意设计类：Jewellery Arts and Design、Innovative Product Design、Image Design、Multimedia Entertainment Studies、Commercial Comic Art、Interior and Exhibition Design、Computer Game and Animation Design、Fashion Image Design、Display and Jewellery Design、Digital Comic Design and Production、Jewellery Design in Digital Age |
+| Public Humanities（JS4100） | 创新创业类：Innovation and Entrepreneurship |
+| Hospitality and Real Estate（JS4226） | **认可所有 ApL 课程** |
+| Professional Accountancy（JS4240） | 会计商务类：Practical Accounting for SMEs、Understanding Financial Services、Practical Computerised Accounting、Accounting in Practice、Accounting for e-Business |
+| Insurance, Financial and Actuarial Analysis（JS4238） | 金融会计类：Practical Accounting for SMEs、Practical Computerised Accounting、Accounting in Practice、Accounting for e-Business |
+| Quantitative Finance（JS4252） | 金融类：Financial Markets and Operations、Introduction to Fintech |
+| Quantitative Finance and Risk Management Science（JS4276） | 金融类 + AI 类：Financial Markets and Operations、Introduction to Fintech、AI in Business、AI and Robotics |
+| BA (English Studies) and BEd (English Language Education)（JS4343） | 英语类：English Communication、English for Service Professionals、English for Business Services、Practical Translation (CHI-ENG) |
+| Anthropology（JS4006） | 电影、媒体、创意类 ApL |
+| Religious Studies（JS4109） | 媒体、文化类：Multimedia Storytelling |
+| Theology（JS4111） | 商科、法律、文化类 ApL |
+| Chinese Studies（JS4136） | 市场营销、酒店、航空、创意媒体类 ApL |
+
+#### 咨询口径
+- ApL 成绩可作为部分专业的录取参考，但并非所有专业都认可
+- 酒店与房地产专业（JS4226）对 ApL 课程接受度最广
+- 热门专业（如医学、法律、计算机）对 ApL 课程认可有限
+- 有 ApL 背景的 HKDSE 考生在申请相关对口专业时可考虑此信息
+- 实际录取仍综合考虑 HKDSE 整体成绩、面试表现等
