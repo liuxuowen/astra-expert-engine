@@ -998,6 +998,90 @@ AFR 这类榜单和 QS 看的不是同一件事。QS 更偏全球声誉、国际
 - Category C 其他语言科目（法语/德语/西班牙语 A2 以上；日语 N3 以上；韩语 Grade 3 以上；乌尔都语 Grade E 以上）可作为第二选修科目计入
 - 最多额外计入第7个科目的加分
 
+### 11. 2026 年 JUPAS 面试安排
+
+#### 重要说明
+- 并非所有专业都会安排面试
+- 部分面试在 HKDSE 成绩公布前进行；成绩公布后（2026年7月22-29日）仍有部分专业安排面试
+- 只有入围候选人才会收到面试邀请
+- 面试通知（含日期/时间/形式：面授或线上）将通过电话或邮件个别发送
+
+#### 需参加面试的专业（2026 Entry，按时间排序）
+
+**5月（成绩公布前）：**
+- JS4682 Enrichment Mathematics：7-8 May
+- JS4838 Urban Studies：11 May
+- JS4836 Geography and Resource Management：19 May
+- JS4601 Science（broad-based）：21-22 May
+- JS4032 English：21-22 May
+- JS4750 Aerospace Science & X Double Major：Early-mid May
+- JS4416 Computational Data Science：Mid May-mid June
+- JS4082 Music（笔试15 May + 面试26-28 May）
+
+**6月（成绩公布前）：**
+- JS4226 Hospitality and Real Estate：1-5 June（tentative）
+- JS4812 Architectural Studies：Late May-early June
+- JS4886 Sociology：Late May
+- JS4408 Mechanical and Automation Engineering：May/June
+- JS4460 Biomedical Engineering：May
+- JS4462 Energy and Environmental Engineering：May/June
+- JS4501 / JS4502 Medicine（MBChB / MBChB-GPS）：15, 22, 29 May & 16 June
+- JS4801 Social Science（broad-based）：15-16 June
+- JS4254 Interdisciplinary Major Programme in Global Economics and Finance：Mid June
+- JS4214 Global Business Studies：8-11 June
+- JS4264 IBBA-JD Double Degree Programme：8-12 June
+- JS4733 Mathematics and Information Engineering：8-12 June
+- JS4513 Nursing：8-26 June
+- JS4690 Enrichment Stream in Theoretical Physics：3-4 June
+- JS4719 Risk Management Science：9 June
+- JS4252 Quantitative Finance：15-18 June（tentative）
+- JS4760 Interdisciplinary Data Analytics & X：18 June
+- JS4276 Quantitative Finance and Risk Management Science：18-30 June
+- JS4525 Pharmacy：16-17 June
+- JS4412 Computer Science and Engineering：Mid June
+- JS4468 Artificial Intelligence: Systems and Technologies：Mid June
+- JS4202 Integrated BBA：Mid June-early July
+- JS4903 Bachelor of Laws：11-16 June
+- JS4238 Insurance, Financial and Actuarial Analysis：17-30 June
+- JS4240 Professional Accountancy：17-30 June
+- JS4542 Chinese Medicine：June
+- JS4858 Global Communication：June
+- JS4824 Economics：Late June
+- JS4898 Diplomacy and International Studies：Late June-early July
+
+**无面试专业（直接凭分数录取）：**
+- JS4006 Anthropology
+- JS4018 Chinese Language and Literature（仅特殊情况进行面试）
+- JS4056 History、JS4068 Japanese Studies、JS4070 Linguistics、JS4094 Philosophy、JS4100 Public Humanities、JS4109 Religious Studies、JS4111 Theology、JS4123 Translation、JS4136 Chinese Studies
+- JS4428 Financial Technology
+- JS4434 Electronic Engineering
+- JS4458 Systems Engineering and Engineering Management
+- JS4470 Materials Science and Engineering
+- JS4386 BSc in Learning Design and Technology
+- JS4320 Human Movement Science and Health Studies
+- JS4329 Physical Education, Exercise Science and Health
+- JS4331 BA(Chinese Language Studies) and BEd(Chinese Language Education)
+- JS4343 BA(English Studies) and BEd(English Language Education)
+- JS4361 BEd in Mathematics and Mathematics Education
+- JS4372 BEd in Early Childhood Education
+- JS4725 Biotechnology, Entrepreneurship and Healthcare Management
+- JS4537 Public Health
+- JS4550 Biomedical Sciences
+- JS4648 Earth and Environmental Sciences
+- JS4848 Government and Public Administration
+- JS4850 Journalism and Communication
+- JS4862 Psychology
+- JS4874 Social Work
+- JS4892 Global Studies
+- JS4893 Data Science and Policy Studies
+
+#### 咨询口径
+- 有面试的专业通常竞争更激烈，面试表现是重要参考维度
+- 医学类专业（MBChB）面试安排在5月，需提前准备
+- 多数面试在 HKDSE 成绩公布前进行，成绩公布后（7月22-29日）仍有部分专业安排面试
+- 面试形式（面授/线上）会在邀请通知中说明
+- 详情以 CUHK 招生官网最新安排为准
+
 ### 8. 2026 年本科专业预计招生人数（Projected Enrolment）
 
 #### 数据说明
