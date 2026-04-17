@@ -937,3 +937,48 @@ AFR 这类榜单和 QS 看的不是同一件事。QS 更偏全球声誉、国际
 - 适用于整体优秀但单科稍弱的 HKDSE 考生
 - 医学、护理、法律等热门专业通常不实施此安排
 - 详情以 CUHK 招生官网最新信息为准
+
+### 8. 2026 年本科专业预计招生人数（Projected Enrolment）
+
+#### 数据说明
+以下为 CUHK 2026 Entry 各专业指示性招生名额，实际名额可能调整。
+
+#### 部分专业招生规模参考
+
+| JUPAS Code | 专业 | 预计招生人数 |
+|-----------|------|------------|
+| JS4601 | Science（综合大类） | 335 |
+| JS4801 | Social Science（综合大类） | 47 |
+| JS4202 | Integrated BBA | 212 |
+| JS4513 | Nursing | 217 |
+| JS4240 | Professional Accountancy | 122 |
+| JS4412 | Computer Science and Engineering | 113 |
+| JS4446 | Information Engineering | 67 |
+| JS4824 | Economics | 62 |
+| JS4226 | Hospitality and Real Estate | 58 |
+| JS4525 | Pharmacy | 58 |
+| JS4434 | Electronic Engineering | 48 |
+| JS4850 | Journalism and Communication | 42 |
+| JS4862 | Psychology | 55 |
+| JS4408 | Mechanical and Automation Engineering | 51 |
+| JS4458 | Systems Engineering and Engineering Management | 50 |
+| JS4056 | History | 48 |
+| JS4874 | Social Work | 47 |
+| JS4836 | Geography and Resource Management | 41 |
+| JS4252 | Quantitative Finance | 37 |
+| JS4886 | Sociology | 37 |
+| JS4812 | Architectural Studies | 30 |
+| JS4502 | MBChB-GPS（Global Physician-Leadership） | 30-50 |
+| JS4428 | Financial Technology | 30 |
+| JS4468 | Artificial Intelligence: Systems and Technologies | 30 |
+| JS4760 | Interdisciplinary Data Analytics & X Double Major | 28 |
+| JS4202 | Global Business Studies | 15 |
+| JS4276 | Quantitative Finance and Risk Management Science | 20 |
+| JS4460 | Biomedical Engineering | 42 |
+
+#### 咨询口径
+- 招生人数反映专业规模，可用于判断竞争密度
+- 大类招生专业（如 Science、Social Science）入学后通常有二次分流
+- 护理（217）、综合 BBA（212）、专业会计（122）、计算机（113）等属于招生规模较大的专业
+- 医学方向具体名额未公开列出，需单独确认
+- 预计招生名额为指示性数据，实际可能调整
